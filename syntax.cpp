@@ -1,7 +1,7 @@
 #include<iostream>
-
+using namespace std;
 int main(){
-    std::cout <<"Helium is a new drug";
+    cout <<"Helium is a new drug";
 
     return 0;
 }
